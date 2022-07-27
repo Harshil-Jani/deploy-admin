@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-admin/static/css/main.3caf1923.css",
+    "main.js": "/deploy-admin/static/js/main.b110d762.js",
+    "static/js/787.4d29ae42.chunk.js": "/deploy-admin/static/js/787.4d29ae42.chunk.js",
+    "index.html": "/deploy-admin/index.html",
+    "main.3caf1923.css.map": "/deploy-admin/static/css/main.3caf1923.css.map",
+    "main.b110d762.js.map": "/deploy-admin/static/js/main.b110d762.js.map",
+    "787.4d29ae42.chunk.js.map": "/deploy-admin/static/js/787.4d29ae42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3caf1923.css",
+    "static/js/main.b110d762.js"
+  ]
+}
