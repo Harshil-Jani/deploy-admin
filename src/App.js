@@ -8,8 +8,8 @@ import { FieldList, FieldCreate, FieldEdit } from "./components/fields.js";
 import buildGraphQLProvider from 'ra-data-graphql-simple';
 
 function App() {
-  const dataProviderType = "GraphQl".toUpperCase();
-  const entities_array = "Student,Teacher,Institute".split(",");
+  const dataProviderType = "REST".toUpperCase();
+  const entities_array = "Student,Teacher".split(",");
   const [dataProvider, setDataProvider] = React.useState(null);
   React.useEffect(() => {
     buildGraphQLProvider({ clientOptions: { uri: 'http://localhost:8000' } })
